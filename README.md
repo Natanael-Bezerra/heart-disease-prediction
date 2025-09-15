@@ -72,9 +72,11 @@ Testar algoritmos ensemble (Random Forest, XGBoost)
 
 Adicionar mais métricas de avaliação
 
-👨‍💻 Autor
-Natanael Bezerra
+👨‍💻 Autores
+Natanael Bezerra E Lucas Morais
 
 GitHub: @Natanael-Bezerra
+@LucasMorais03
 
 Email: windowsphoneproject@gmail.com
+Email: moraislucasufs2020@hotmail.com
